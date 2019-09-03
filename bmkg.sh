@@ -77,7 +77,7 @@ fi
 if [[ $no == "3" ]]; then
 
 printf "====== Pesan ========== \n"| lolcat
-curl -s http://data.bmkg.go.id/pesan.txt |tr '\n'
+curl -s http://data.bmkg.go.id/pesan.txt
 printf "====== END PESAN ====== \n"|lolcat -a -d 500
 
 fi
