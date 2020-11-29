@@ -1,7 +1,7 @@
 # bmkg-info<br>
 Menampilkan info data dari bmkg<br>
 
-Cara pakai<br> 
+How to use : <br> 
 <p>
 $apt-get update <br>
 $apt-get upgrade <br>
